@@ -16,13 +16,13 @@ Before the project can be used, you must first make sure you have access to some
 
 Type one of these links into the browser of the device you would like to use SAIKO-STASH on:
 
-https://cdn.jsdelivr.net/gh/jexapatron/SAIKO-STASH@main/tests/jsDelivr.txt <-- If this loads then you use the "JSDL" version of the Single File
+https://cdn.jsdelivr.net/gh/jexapatron/SAIKO-STASH@main/tests/JSDL.txt <-- If this loads then you use the "JSDL" version of the Single File
 <br>
-raw.githack.com <-- If this loads then you use the "RGHK" version of the Single File
+https://rawcdn.githack.com/jexapatron/SAIKO-STASH/6fbd7fa8ed27124ac0e206d4cce28bd7fc3324fe/tests/RGHK.txtraw.githack.com <-- If this loads then you use the "RGHK" version of the Single File
 <br>
-esm.sh <-- If this loads then you use the "ESMH" version of the Single File
+[COMING SOON] <-- If this loads then you use the "ESMH" version of the Single File
 <br>
-statistically.io <-- If this loads then you use the "SILO" version of the Single File
+https://cdn.statically.io/gh/jexapatron/SAIKO-STASH@main/tests/SILO.txt <-- If this loads then you use the "SILO" version of the Single File
 <br>
 
 Double check you spelled everything right before calling it quits.
