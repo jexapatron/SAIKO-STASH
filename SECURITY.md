@@ -1,6 +1,4 @@
-# Security Policy
-
-## Supported Versions
+### Supported Versions
 
 This is less about secuirity and more about wether or not the following versions still work on managed devices.
 
