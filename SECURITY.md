@@ -1,6 +1,6 @@
 ### Supported Versions
 
-This is less about secuirity and more about wether or not the following versions still work on managed devices.
+This is less about security and more about if the following versions still work on managed devices.
 
 This list does not include BETA releases.
 
