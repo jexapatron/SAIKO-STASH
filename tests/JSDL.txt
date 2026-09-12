@@ -20,6 +20,6 @@
                        
 ==============================================================================================
 
-TEST_MESSAGE: IF YOU CAN SEE THIS YOU SHOULD BE ABLE TO USE SAIKO STASH ON THIS DEVICE
+TEST_MESSAGE: IF YOU CAN SEE THIS, USE THE JSDL VERSION OF SAIKO-STASH
 TEST_TYPE: jsdelivr cdn
 TEST_STATUS: SUCCESS
